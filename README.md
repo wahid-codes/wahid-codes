@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Improving my frontend skills and building better user interfaces**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wahid-codes](https://github.com/wahid-codes)
+- 👨‍💻 All of my projects are available at  [https://github.com/wahid-codes](https://github.com/wahid-codes)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, and frontend development**
 
