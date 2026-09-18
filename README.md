@@ -18,7 +18,7 @@
 - 📫 How to reach me **wahid.zarifi45@gmail.com**
 
 - 📄 Know about my experiences  
-  I’m a frontend developer from Afghanistan, passionate about building websites and improving my skills in HTML, CSS, and JavaScript. I enjoy creating responsive and user-friendly web projects.
+  I’m a frontend developer from Afghanistan, passionate about building websites and improving my skills in HTML, CSS, and JavaScript. I enjoy          creating responsive and user-friendly web projects.
 
 - ⚡ Fun fact **I enjoy learning new technologies and creating websites**
 
